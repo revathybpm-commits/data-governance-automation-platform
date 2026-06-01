@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database files (VERY IMPORTANT)
+database/*.db
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
